@@ -29,7 +29,7 @@ PORT = os.environ.get("PORT", "8080")
 
 #Database 
 DB_URI = os.environ.get("DATABASE_URL", "mongodb+srv://Leader2580king:Leader2580King>@leader.z7xhm.mongodb.net/?retryWrites=true&w=majority&appName=Leader")
-DB_NAME = os.environ.get("DATABASE_NAME", "Leader")
+DB_NAME = os.environ.get("DATABASE_NAME", "Cluser0")
 
 #force sub channel id, if you want enable force sub
 FORCE_SUB_CHANNEL_1 = int(os.environ.get("FORCE_SUB_CHANNEL_1", "-1002054326525"))
