@@ -1,4 +1,4 @@
-#(©)_PXL_Community
+#(©)Codeflix_Bots
 
 
 
@@ -22,7 +22,7 @@ API_HASH = os.environ.get("API_HASH", "7cca75b30952995e6f4714e004977fc4")
 CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1002400153428"))
 
 #OWNER ID
-OWNER_ID = int(os.environ.get("OWNER_ID", "5285638689"))
+OWNER_ID = int(os.environ.get("OWNER_ID", "8081448964"))
 
 #Port
 PORT = os.environ.get("PORT", "8080")
