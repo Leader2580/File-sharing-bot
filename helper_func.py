@@ -1,5 +1,5 @@
-#(©)PXL_Community
-#Recoded By @PXL_Community
+#(©)Codexbotz
+#Recoded By @Its_Tartaglia_Childe
 
 import base64
 import re
