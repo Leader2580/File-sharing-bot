@@ -1,4 +1,4 @@
-#(©)PXL_Community
+#(©)Codexbotz
 
 from aiohttp import web
 from plugins import web_server
@@ -104,6 +104,7 @@ class Bot(Client):
  \___\___/|___/|___|_| |____|___/_/\_\___/\___/ |_| |___/
                                                          
  
+                                          """)
         self.username = usr_bot_me.username
         #web-response
         app = web.AppRunner(await web_server())
