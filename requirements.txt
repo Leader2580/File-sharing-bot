@@ -1,6 +1,6 @@
 https://codeload.github.com/KurimuzonAkuma/pyrogram/zip/refs/heads/dev
 TgCrypto
-pyromod
+pyromod==1.5
 pymongo
 dnspython
 aiohttp
